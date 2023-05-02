@@ -5,12 +5,12 @@ Root 6 alalım, Root'un sağında 7, solunda 3 bulunur.
 
                       6
                     /   \
-                   4      7 
-                 /  \      \ 
-                3    5      8 
-               /             \ 
-              2               9
+                   3      8 
+                 /  \    / \ 
+                2    4  7   9 
+               /      \         
+              1        5       
              /
-            1
-           /
-          0
+            0
+           
+          
